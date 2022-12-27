@@ -1,6 +1,7 @@
 {
   "name": "e-commerce-app",
-  "author": {"name": "Ammad"},
+  "author": {"name": "Ammad",
+"email": "ammadali@gmail.com"},
   "version": "0.1.0",
   "private": true,
   "dependencies": {
