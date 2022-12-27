@@ -1,0 +1,21 @@
+.heading {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+.heading1 {
+    font-family: Cambria, Cochin;
+    font-size: 80px;
+}
+
+.btn {
+    border-radius: 20px;
+    background: #ffda6b;
+    color: #fff;
+}
+
+.btn:hover {
+    border-radius: 20px;
+    background: #f7ba03;
+    color: #fff;
+}
